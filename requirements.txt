@@ -1,0 +1,10 @@
+aerich==0.6.3
+aiohttp==3.8.1
+asyncpg==0.25.0
+fastapi==0.78.0
+pytest-aio==1.4.1
+python-dotenv==0.20.0
+tortoise-orm==0.19.1
+uvicorn==0.17.6
+
+myloguru-deskent==0.0.12
